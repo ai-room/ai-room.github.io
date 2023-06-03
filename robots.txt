@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ai-room.github.io/sitemap.xml
