@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 02 Jun 2023 22:00:11 -0700</lastBuildDate><atom:link href="https://ai-room.github.io/tags/preview/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First note</title>
-      <link>https://ai-room.github.io/post/test/</link>
+      <link>https://ai-room.github.io/2023-06-02-test/</link>
       <pubDate>Fri, 02 Jun 2023 22:00:11 -0700</pubDate>
       
-      <guid>https://ai-room.github.io/post/test/</guid>
+      <guid>https://ai-room.github.io/2023-06-02-test/</guid>
       <description>Title why no update?
 what the fuck? this is the first blog to build
 second test</description>
@@ -20,10 +20,10 @@ second test</description>
     
     <item>
       <title>[English] Creating a New Theme</title>
-      <link>https://ai-room.github.io/post/english-preview/</link>
+      <link>https://ai-room.github.io/2023-05-31-english-preview/</link>
       <pubDate>Wed, 31 May 2023 15:43:48 +0800</pubDate>
       
-      <guid>https://ai-room.github.io/post/english-preview/</guid>
+      <guid>https://ai-room.github.io/2023-05-31-english-preview/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
