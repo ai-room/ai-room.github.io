@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>machine learning on AI Room</title>
-    <link>https://ai-room.github.io/tags/machine-learning/</link>
-    <description>Recent content in machine learning on AI Room</description>
+    <title>Posts on AI Room</title>
+    <link>https://ai-room.github.io/post/</link>
+    <description>Recent content in Posts on AI Room</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jun 2023 22:00:11 -0700</lastBuildDate><atom:link href="https://ai-room.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jun 2023 22:00:11 -0700</lastBuildDate><atom:link href="https://ai-room.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Machine Learning Resource</title>
       <link>https://ai-room.github.io/post/2023-06-02-machine-learning-resource/</link>
